@@ -90,14 +90,18 @@ open_to     : AI Projects · Automation Consulting · Collabs
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Expertise Level
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshshandeep&theme=darkhub&column=6&margin-w=10&margin-h=10&title_color=FF6B35&no-bg=true" />
-
-</div>
-
+| Skill | Level |
+|-------|-------|
+| 💬 WhatsApp AI Bots | ██████████ 100% |
+| 🤖 AI Automation | █████████░ 95% |
+| ⚡ n8n Workflows | █████████░ 95% |
+| 🌐 Web Development | ████████░░ 85% |
+| 🐍 Python | ████████░░ 85% |
+| 🧾 Business Automation | ██████████ 100% |
+| 📱 React & Next.js | ████████░░ 85% |
+| ☁️ Deploy & Hosting | █████████░ 90% |
 ---
 
 ## 🌟 Featured Projects
