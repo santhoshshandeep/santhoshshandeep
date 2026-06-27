@@ -92,16 +92,19 @@ open_to     : AI Projects · Automation Consulting · Collabs
 
 ## 🏅 Expertise Level
 
-| Skill | Level |
-|-------|-------|
-| 💬 WhatsApp AI Bots | ██████████ 100% |
-| 🤖 AI Automation | █████████░ 95% |
-| ⚡ n8n Workflows | █████████░ 95% |
-| 🌐 Web Development | ████████░░ 85% |
-| 🐍 Python | ████████░░ 85% |
-| 🧾 Business Automation | ██████████ 100% |
-| 📱 React & Next.js | ████████░░ 85% |
-| ☁️ Deploy & Hosting | █████████░ 90% |
+<div align="center">
+
+![WhatsApp AI Bots](https://img.shields.io/badge/💬_WhatsApp_AI_Bots-100%25-FF6B35?style=for-the-badge&labelColor=0d1117)
+![AI Automation](https://img.shields.io/badge/🦾_AI_Automation-95%25-FF6B35?style=for-the-badge&labelColor=0d1117)
+![n8n Workflows](https://img.shields.io/badge/⚡_n8n_Workflows-95%25-FF6B35?style=for-the-badge&labelColor=0d1117)
+![Business Automation](https://img.shields.io/badge/🧾_Business_Automation-100%25-FF6B35?style=for-the-badge&labelColor=0d1117)
+![Web Development](https://img.shields.io/badge/🌐_Web_Development-85%25-FF8C5A?style=for-the-badge&labelColor=0d1117)
+![React & Next.js](https://img.shields.io/badge/📱_React_&_Next.js-85%25-FF8C5A?style=for-the-badge&labelColor=0d1117)
+![Deploy & Hosting](https://img.shields.io/badge/☁️_Deploy_&_Hosting-90%25-FF8C5A?style=for-the-badge&labelColor=0d1117)
+![Python](https://img.shields.io/badge/🐍_Python-85%25-FF8C5A?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
 ---
 
 ## 🌟 Featured Projects
@@ -111,6 +114,7 @@ open_to     : AI Projects · Automation Consulting · Collabs
 | 🎓 [EduZen](https://github.com/santhoshshandeep) | College Campus Management SaaS | 🔨 Building |
 | 🤖 [Zen4trix](https://zen4trix.in) | AI Automation Agency Website | ✅ Live |
 | 📝 [ai360tamil](https://ai360tamil.blogspot.com) | Tamil AI Education Blog | ✅ Live |
+
 ---
 
 ## 🐍 Contribution Snake
