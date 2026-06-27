@@ -92,9 +92,11 @@ open_to     : AI Projects · Automation Consulting · Collabs
 
 ## 🏆 GitHub Trophies
 
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshshandeep&theme=darkhub&column=6&margin-w=10&margin-h=10&title_color=FF6B35&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=santhoshshandeep&theme=darkhub&no-bg=true&margin-w=10
+" />
 
 </div>
 
