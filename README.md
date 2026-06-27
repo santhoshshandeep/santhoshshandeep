@@ -92,11 +92,9 @@ open_to     : AI Projects · Automation Consulting · Collabs
 
 ## 🏆 GitHub Trophies
 
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshshandeep&theme=darkhub&no-bg=true&margin-w=10
-" />
+<img src="https://github-profile-trophy.vercel.app/?username=santhoshshandeep&theme=darkhub&column=6&margin-w=10&margin-h=10&title_color=FF6B35&no-bg=true" />
 
 </div>
 
@@ -104,13 +102,11 @@ open_to     : AI Projects · Automation Consulting · Collabs
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![EduZen](https://github-readme-stats.vercel.app/api/pin/?username=santhoshshandeep&repo=eduzen&theme=dark&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35&description_lines_count=2)](https://github.com/santhoshshandeep/eduzen)
-[![Zen4trix](https://github-readme-stats.vercel.app/api/pin/?username=santhoshshandeep&repo=zen4trix&theme=dark&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35&description_lines_count=2)](https://github.com/santhoshshandeep/zen4trix)
-
-</div>
-
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🎓 [EduZen](https://github.com/santhoshshandeep) | College Campus Management SaaS | 🔨 Building |
+| 🤖 [Zen4trix](https://zen4trix.in) | AI Automation Agency Website | ✅ Live |
+| 📝 [ai360tamil](https://ai360tamil.blogspot.com) | Tamil AI Education Blog | ✅ Live |
 ---
 
 ## 🐍 Contribution Snake
