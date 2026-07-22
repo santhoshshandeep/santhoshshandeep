@@ -4,7 +4,15 @@
 
 <br/>
 
-<img src="./lanyard.svg" width="190" align="right"/>
+<div align="right">
+<img src="./lanyard.svg" width="180"/>
+</div>
+
+<div align="center">
+<img src="./avatar.png" width="250" style="border-radius:50%;border:3px solid #FF6B35;"/>
+</div>
+
+---
 
 ## 🧠 About Me
 
@@ -18,8 +26,6 @@ msme        : UDYAM-TN-28-0213819  ✅
 currently   : Building EduZen — College Campus SaaS  🎓
 open_to     : AI Projects · Automation Consulting · Collabs
 ```
-
-<br clear="right"/>
 
 ---
 
