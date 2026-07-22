@@ -1,10 +1,9 @@
 <div align="center">
-<img src="./banner.svg?v=5" width="100%"/>
+<img src="./banner.svg?v=4" width="100%"/>
 </div>
 
 ---
 
-<img src="./avatar.png" width="180" align="right" style="border-radius:50%;margin:10px;border:3px solid #FF6B35"/>
 <img src="./lanyard.svg" width="160" align="right"/>
 
 ## 🧠 About Me
