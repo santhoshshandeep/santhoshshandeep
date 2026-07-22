@@ -1,18 +1,11 @@
 <div align="center">
-<img src="./banner.svg?v=3" width="100%"/>
-</div>
-
-<br/>
-
-<div align="right">
-<img src="./lanyard.svg" width="180"/>
-</div>
-
-<div align="center">
-<img src="./avatar.png" width="250" style="border-radius:50%;border:3px solid #FF6B35;"/>
+<img src="./banner.svg?v=4" width="100%"/>
 </div>
 
 ---
+
+<img src="./avatar.png" width="180" align="right" style="border-radius:50%;margin:10px;border:3px solid #FF6B35"/>
+<img src="./lanyard.svg" width="160" align="right"/>
 
 ## 🧠 About Me
 
@@ -26,6 +19,8 @@ msme        : UDYAM-TN-28-0213819  ✅
 currently   : Building EduZen — College Campus SaaS  🎓
 open_to     : AI Projects · Automation Consulting · Collabs
 ```
+
+<br clear="right"/>
 
 ---
 
