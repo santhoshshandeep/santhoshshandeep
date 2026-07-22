@@ -97,12 +97,8 @@
       <stop offset="100%" style="stop-color:#FF6B35;stop-opacity:0"/>
     </linearGradient>
 
-    <clipPath id="charClip">
-      <circle cx="1085" cy="200" r="158"/>
-    </clipPath>
-    <clipPath id="scanClip">
-      <circle cx="1085" cy="200" r="158"/>
-    </clipPath>
+    
+    
 
     <filter id="nameGlow">
       <feGaussianBlur stdDeviation="4" result="blur"/>
@@ -208,22 +204,6 @@
     <text x="50"  y="337" font-family="monospace" font-size="10" fill="#FF6B35">✅ MSME: UDYAM-TN-28-0213819</text>
     <rect x="258" y="322" width="155" height="22" rx="6" fill="#0d1117" stroke="#56d364" stroke-width="0.5"/>
     <text x="268" y="337" font-family="monospace" font-size="10" fill="#56d364">📍 Tirupur, Tamil Nadu</text>
-  </g>
-
-  <!-- RIGHT — Character with GitHub URL -->
-  <!-- Outer glow ring -->
-  <circle class="ring" cx="1080" cy="200" r="152" fill="none" stroke="#FF6B35" stroke-width="1.5" opacity="0.4"/>
-  <circle cx="1080" cy="200" r="148" fill="#0d1117" opacity="0.2"/>
-
-  <!-- Character image using GitHub URL -->
-  <image href="https://github.com/user-attachments/assets/e8fd65f9-9153-4650-967d-226658701c36"
-    x="920" y="30" width="330" height="340"
-    class="char" preserveAspectRatio="xMidYMid slice"
-    clip-path="url(#charClip)"/>
-
-  <!-- Hologram scanner over character -->
-  <g clip-path="url(#scanClip)">
-    <rect x="930" y="50" width="300" height="6" fill="url(#scanGrad)" class="scanner"/>
   </g>
 
   <!-- Border -->
